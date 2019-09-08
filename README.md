@@ -3,6 +3,7 @@
 This is the code for [Love Food, Hack Waste! Hackathon](https://www.dvfoodhack.com).
 
 ### Backend
+
 - Backend folder contains an **app.py** which is the flask server, loading machine learning model, receiving requests
     and sending the predictions back.
 - Backend folder aslo contians 
