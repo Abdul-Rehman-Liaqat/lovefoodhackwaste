@@ -1,0 +1,6 @@
+backend/data/*
+*__pycache__
+*.hdf5
+*.h5
+.idea/
+data/
